@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 复习", "01 复习\01 复习.csproj", "{25857F43-1CBB-42ED-8C69-0F75549DE428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_switch_case", "02_switch_case\02_switch_case.csproj", "{005E7C1F-06B9-4F6F-B701-A4D3A7961FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 while循环", "03 while循环\03 while循环.csproj", "{9532E1FD-E9BC-4155-A135-0F63E5BC3C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 while循环的练习", "04 while循环的练习\04 while循环的练习.csproj", "{CEA3BE8E-D92E-4AE0-B083-F55624AD5F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 while循环的3个练习题", "05 while循环的3个练习题\05 while循环的3个练习题.csproj", "{08941B27-D825-4131-9F67-B836BCD1E1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25857F43-1CBB-42ED-8C69-0F75549DE428}.Debug|x86.ActiveCfg = Debug|x86
+		{25857F43-1CBB-42ED-8C69-0F75549DE428}.Debug|x86.Build.0 = Debug|x86
+		{25857F43-1CBB-42ED-8C69-0F75549DE428}.Release|x86.ActiveCfg = Release|x86
+		{25857F43-1CBB-42ED-8C69-0F75549DE428}.Release|x86.Build.0 = Release|x86
+		{005E7C1F-06B9-4F6F-B701-A4D3A7961FD0}.Debug|x86.ActiveCfg = Debug|x86
+		{005E7C1F-06B9-4F6F-B701-A4D3A7961FD0}.Debug|x86.Build.0 = Debug|x86
+		{005E7C1F-06B9-4F6F-B701-A4D3A7961FD0}.Release|x86.ActiveCfg = Release|x86
+		{005E7C1F-06B9-4F6F-B701-A4D3A7961FD0}.Release|x86.Build.0 = Release|x86
+		{9532E1FD-E9BC-4155-A135-0F63E5BC3C0D}.Debug|x86.ActiveCfg = Debug|x86
+		{9532E1FD-E9BC-4155-A135-0F63E5BC3C0D}.Debug|x86.Build.0 = Debug|x86
+		{9532E1FD-E9BC-4155-A135-0F63E5BC3C0D}.Release|x86.ActiveCfg = Release|x86
+		{9532E1FD-E9BC-4155-A135-0F63E5BC3C0D}.Release|x86.Build.0 = Release|x86
+		{CEA3BE8E-D92E-4AE0-B083-F55624AD5F60}.Debug|x86.ActiveCfg = Debug|x86
+		{CEA3BE8E-D92E-4AE0-B083-F55624AD5F60}.Debug|x86.Build.0 = Debug|x86
+		{CEA3BE8E-D92E-4AE0-B083-F55624AD5F60}.Release|x86.ActiveCfg = Release|x86
+		{CEA3BE8E-D92E-4AE0-B083-F55624AD5F60}.Release|x86.Build.0 = Release|x86
+		{08941B27-D825-4131-9F67-B836BCD1E1A9}.Debug|x86.ActiveCfg = Debug|x86
+		{08941B27-D825-4131-9F67-B836BCD1E1A9}.Debug|x86.Build.0 = Debug|x86
+		{08941B27-D825-4131-9F67-B836BCD1E1A9}.Release|x86.ActiveCfg = Release|x86
+		{08941B27-D825-4131-9F67-B836BCD1E1A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

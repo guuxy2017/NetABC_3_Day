@@ -1,0 +1,5 @@
+H:\赵老师\NetABC 第三天\01 复习\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\赵老师\NetABC 第三天\01 复习\bin\Debug\01 复习.exe
+H:\赵老师\NetABC 第三天\01 复习\bin\Debug\01 复习.pdb
+H:\赵老师\NetABC 第三天\01 复习\obj\x86\Debug\01 复习.exe
+H:\赵老师\NetABC 第三天\01 复习\obj\x86\Debug\01 复习.pdb

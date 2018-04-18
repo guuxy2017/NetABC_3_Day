@@ -1,0 +1,5 @@
+H:\赵老师\NetABC 第三天\03 while循环\bin\Debug\03 while循环.exe
+H:\赵老师\NetABC 第三天\03 while循环\bin\Debug\03 while循环.pdb
+H:\赵老师\NetABC 第三天\03 while循环\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\赵老师\NetABC 第三天\03 while循环\obj\x86\Debug\03 while循环.exe
+H:\赵老师\NetABC 第三天\03 while循环\obj\x86\Debug\03 while循环.pdb
