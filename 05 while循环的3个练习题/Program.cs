@@ -63,23 +63,59 @@ namespace _05_while循环的3个练习题
             // ↑↑循环体：老师问，学生答，老师讲
             // ↑↑循环条件：1、学生答不会，2、老师讲10遍
 
-            int i = 0;                //声明一个变量，记录循环次数，表示老师讲的次数
-            string answer = " ";  //声明一个变量，记录学生回答，
-            while (answer != "yes" && i < 10)
+            //int i = 0;                //声明一个变量，记录循环次数，表示老师讲的次数
+            //string answer = " ";  //声明一个变量，记录学生回答，
+            //while (answer != "yes" && i < 10)
+            //{
+            //    Console.WriteLine("这是我第{0}遍给你讲，你会做了吗？", i + 1);
+            //    answer = Console.ReadLine();
+
+            //    //限制学生回答在yes和no两个答案中
+            //    while (answer != "yes" && answer != "no")  
+            //    {
+            //        Console.WriteLine("学生只能输入yes或者no  ！！");
+            //        answer = Console.ReadLine();
+            //    }
+            //    i++;   //老师讲的次数加一遍, 改变循环条件的代码
+            //}
+            //Console.ReadKey();
+
+
+
+            //2006年培养学员80000人，每年增长25%，请问按此增长速度，
+            //到哪一年培训学员人数将达到20万人
+            // ↑↑循环体：每年增长25%
+            // ↑↑循环条件： 总人数>=200000
+            #region    我做错的
+            //Console.WriteLine("请输入2006年培养的学员人数");
+            //double number = Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine("请输入每年增长多少");
+            //double percentage = Convert.ToDouble(Console.ReadLine());
+            //int i = 1;
+
+            //while (number <= 200000)
+            //{
+            //    number = number * (1 + percentage) * i;
+            //    i++;
+            //}
+
+            //Console.WriteLine("到{0}年培训人数达到{1}人", 2006 + i, number);
+            //Console.ReadKey();
+            #endregion
+
+            #region  老赵做的
+            int year = 2006;
+            double person = 80000;
+            while (person <=200000)
             {
-                Console.WriteLine("这是我第{0}遍给你讲，你会做了吗？", i + 1);
-                answer = Console.ReadLine();
-
-                //限制学生回答在yes和no两个答案中
-                while (answer != "yes" && answer != "no")  
-                {
-                    Console.WriteLine("学生只能输入yes或者no  ！！");
-                    answer = Console.ReadLine();
-                }
-
-                i++;   //老师讲的次数加一遍
+                //每年增长25%
+                person *= 1.25;
+                year++;
             }
+            Console.WriteLine("到{0}年的时候，人数将达到20万",year);
             Console.ReadKey();
+
+            #endregion
 
         }
     }
