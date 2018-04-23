@@ -1,0 +1,5 @@
+H:\赵老师\NetABC 第三天\08  while循环的3个练习\bin\Debug\08  while循环的3个练习.exe
+H:\赵老师\NetABC 第三天\08  while循环的3个练习\bin\Debug\08  while循环的3个练习.pdb
+H:\赵老师\NetABC 第三天\08  while循环的3个练习\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\赵老师\NetABC 第三天\08  while循环的3个练习\obj\x86\Debug\08  while循环的3个练习.exe
+H:\赵老师\NetABC 第三天\08  while循环的3个练习\obj\x86\Debug\08  while循环的3个练习.pdb

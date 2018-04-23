@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 while循环的3个练习
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 break关键字", "06 break关键字\06 break关键字.csproj", "{D146C173-5853-43E8-AD53-16CA4DE91D3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08  while循环的3个练习", "08  while循环的3个练习\08  while循环的3个练习.csproj", "{371BB0B9-D4EE-488D-9DD9-DD968C034127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{D146C173-5853-43E8-AD53-16CA4DE91D3A}.Debug|x86.Build.0 = Debug|x86
 		{D146C173-5853-43E8-AD53-16CA4DE91D3A}.Release|x86.ActiveCfg = Release|x86
 		{D146C173-5853-43E8-AD53-16CA4DE91D3A}.Release|x86.Build.0 = Release|x86
+		{371BB0B9-D4EE-488D-9DD9-DD968C034127}.Debug|x86.ActiveCfg = Debug|x86
+		{371BB0B9-D4EE-488D-9DD9-DD968C034127}.Debug|x86.Build.0 = Debug|x86
+		{371BB0B9-D4EE-488D-9DD9-DD968C034127}.Release|x86.ActiveCfg = Release|x86
+		{371BB0B9-D4EE-488D-9DD9-DD968C034127}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
